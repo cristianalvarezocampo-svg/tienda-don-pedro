@@ -1,18 +1,22 @@
 # 🛒 Tienda Don Pedro
 
-< Nuestro proyecto sirve a la administracion de Don Pedro, para la exposicion de sus productos y llegar a mas clientes>
+Proyecto para la administración de la tienda de Don Pedro. Sirve para mostrar sus productos, llevar el registro de clientes y ventas, y calcular el valor del inventario.
 
 ## Productos
 
 | Producto | Precio |
-|---|---|
-| <producto> | <precio> |
+|----------|--------|
+| Arroz 1kg | $4.500 |
+| Leche 1L | $4.500 |
 
 ## Estructura
 
 ```
 tienda-don-pedro/
 ├── datos/
+│   ├── clientes.txt
+│   ├── productos.txt
+│   └── ventas.txt
 ├── src/
 │   └── main.py
 ├── .gitignore
@@ -21,10 +25,10 @@ tienda-don-pedro/
 
 ## Cómo ejecutarlo
 
-```
+```bash
 python src/main.py
 ```
 
 ## Autor
 
-<Tu Cristian Alvarez> · [GitHub](https://github.com/<david>)
+Cristian Alvarez · [GitHub](https://github.com/cristianalvarezocampo-svg)
