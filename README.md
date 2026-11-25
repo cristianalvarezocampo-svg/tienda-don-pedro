@@ -29,6 +29,13 @@ tienda-don-pedro/
 python src/main.py
 ```
 
+## Domicilios
+
+Realizamos entregas a domicilio de lunes a sábado.
+
+- Horario: 8:00 a. m. a 6:00 p. m.
+- Cobertura: barrio San José y alrededores.
+
 ## Autor
 
 Cristian Alvarez · [GitHub](https://github.com/cristianalvarezocampo-svg)
